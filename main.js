@@ -1,6 +1,6 @@
 // html노드 중에 해당 변수에 할당시킴
-const icons = document.querySelectorAll('.icon');
 const sub_btn = document.querySelector('.sub_btn');
+const icons = document.querySelectorAll('.icon');
 const down_btn = document.querySelector('#down_btn');
 const video_title = document.querySelector('#video_title');
 
